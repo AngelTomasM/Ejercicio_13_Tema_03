@@ -1,0 +1,11 @@
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\bin\Debug\Ejercicio_13_Tema_03.exe.config
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\bin\Debug\Ejercicio_13_Tema_03.exe
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\bin\Debug\Ejercicio_13_Tema_03.pdb
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.csproj.AssemblyReference.cache
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.Form1_Ejercicio_13_Tema_03.resources
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.Properties.Resources.resources
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.csproj.GenerateResource.cache
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.csproj.CoreCompileInputs.cache
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.exe
+C:\Users\angel\Source\Repos\atms1dawz\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\Ejercicio_13_Tema_03\obj\Debug\Ejercicio_13_Tema_03.pdb

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.lblTitulo = new System.Windows.Forms.Label();
+            this.btnBoton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblTitulo
@@ -41,12 +42,22 @@
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "Ejercicio_13_Tema_03";
             // 
+            // btnBoton
+            // 
+            this.btnBoton.Location = new System.Drawing.Point(65, 118);
+            this.btnBoton.Name = "btnBoton";
+            this.btnBoton.Size = new System.Drawing.Size(156, 82);
+            this.btnBoton.TabIndex = 1;
+            this.btnBoton.Text = "Un botón";
+            this.btnBoton.UseVisualStyleBackColor = true;
+            // 
             // Form1_Ejercicio_13_Tema_03
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGray;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnBoton);
             this.Controls.Add(this.lblTitulo);
             this.Name = "Form1_Ejercicio_13_Tema_03";
             this.Text = "Ejercicio_13_Tema_03";
@@ -58,6 +69,7 @@
         #endregion
 
         private System.Windows.Forms.Label lblTitulo;
+        private System.Windows.Forms.Button btnBoton;
     }
 }
 
